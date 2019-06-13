@@ -1,0 +1,52 @@
+/*Colors:
+#104F55
+#32746D
+#9EC5AB
+#01200F
+#011502
+*/
+
+
+body{
+	background-color: #faebd7;
+}
+
+.is-horizontal-center{
+	justify-content: center;
+}
+
+#brand{
+	color: #fff;
+	font-size: 20px;
+}
+
+#card1{
+	color: #ffffff;
+	background-color: #006494;
+}
+#card2{
+	color: #ffffff;
+	background-color: #247BA0;
+}
+#card3{
+	color: #ffffff;
+	background-color: #1B98E0;
+}
+
+h4{
+	color: #fff;
+}
+
+#aboutme{
+	background-color: #fff;
+	margin-bottom: 30px;
+	padding-bottom: 30px;
+}
+
+#title{
+	color: #000;
+}
+
+i{
+	margin-right: 10px;
+}
